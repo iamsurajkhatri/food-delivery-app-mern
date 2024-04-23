@@ -1,0 +1,9 @@
+pending Task from 23/04/2023
+
+1. React router dom setup in frontend
+2. Create the layouts for different different user
+3. Navbar form mobile and desktop with landing Page
+
+4. Before proces make a tolist project with pagination search and filter ans sorting using any package in mern stack.
+
+
